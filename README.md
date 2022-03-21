@@ -1,0 +1,1 @@
+This is a repository with homework from the "Automation with Selenium and Python" course.
